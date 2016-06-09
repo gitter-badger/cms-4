@@ -1,6 +1,8 @@
 How to run project
 ==================
 
+[![Join the chat at https://gitter.im/wundermanpraha/cms](https://badges.gitter.im/wundermanpraha/cms.svg)](https://gitter.im/wundermanpraha/cms?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 1. CLI: `composer create-project wundermanpraha/cms`
 1. CLI: `make setup`
 1. Change properties in PROJECT_ROOT/app/config/config.local.neon to your servers
